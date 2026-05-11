@@ -1,18 +1,10 @@
- { id: "nbatv-ph",     name: "NBA TV PHILIPPINES", category: "SPORTS",     logo: "https://i.imgur.com/x1ZG71v.png", url: "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd",
-      clearKeys: { "d1f8a0c97b3d4e529a6f2c4b8d7e1f90": "58ab331d14b66bf31aca4284e0a3e536" } },
-      
-    { id: "pbarush",      name: "PBA RUSH",         category: "SPORTS",   logo: "https://i.imgur.com/F2npB7o.png",   url: "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_pbarush_hd1/default/index.mpd",
-      clearKeys: { "d7f1a9c36b2e4f8d9a441c5e7b2d8f60": "fb83c86f600ab945e7e9afed8376eb1e" } },
-      
-      { id: "oneph",    name: "One PH",      category: "SPORTS",   logo: "https://i.imgur.com/gkluDe9.png",   url: "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/oneph_sd/default/index.mpd",
-      clearKeys: { "b1c7e9d24f8a4d6c9e337a2f1c5b8d60": "8ff2e524cc1e028f2a4d4925e860c796" } },
-      
-    { id: "onesports",    name: "One Sports+",      category: "SPORTS",   logo: "https://i.imgur.com/D33wRIq.png",   url: "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd",
-      clearKeys: { "f00bd0122a8a4da1a49ea6c49f7098ad": "a4079f3667ba4c2bcfdeb13e45a6e9c6" } },
-      
-    
-    { id: "tapsports",    name: "Tap Sports",       category: "SPORTS",   logo: "https://i.imgur.com/ZsWDiRF.png",   url: "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_tapsports/default/index.mpd",
-      clearKeys: { "eabd2d95c89e42f2b0b0b40ce4179ea0": "0e7e35a07e2c12822316c0dc4873903f"} },
-      
-      { id: "uaapvarsitychannel",    name: "UAAP Varsity Channel",       category: "SPORTS",   logo: "https://i.imgur.com/V0sxXci.png",   url: "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_uaap_cplay_sd/default/index.mpd",
-      clearKeys: { "95588338ee37423e99358a6d431324b9": "6e0f50a12f36599a55073868f814e81e"} },
+[
+  {
+    "id": "nbatv-ph",
+    "name": "NBA TV PHILIPPINES",
+    "category": "SPORTS",
+    "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd",
+    "keyId": "d1f8a0c97b3d4e529a6f2c4b8d7e1f90",
+    "key": "58ab331d14b66bf31aca4284e0a3e536"
+  }
+]
